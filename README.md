@@ -47,10 +47,3 @@ $557 of money
 Write action (buy, fill, remaining, take): exit
 ```
 
-## Requirements
-
-To compile and run the program, make sure you have Java installed on your system.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
